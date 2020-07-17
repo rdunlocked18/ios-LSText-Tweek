@@ -1,0 +1,10 @@
+Package: com.daftarirn.lsanytex
+Name: LSAnyTex
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A MobileSubstrate Tweak to add Any text To lockscreen with any font :)
+Maintainer: Rohit Daftari
+Author: Rohit Daftari (rdunlocked)
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 56
